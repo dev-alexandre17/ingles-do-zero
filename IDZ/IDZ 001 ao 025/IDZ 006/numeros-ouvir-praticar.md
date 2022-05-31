@@ -4,6 +4,6 @@
 
 <p> Este episódio é voltado única e exclusivamente para ouvir e praticar os números em inglês. Não deixe de ouvir e praticar até cansar. </p>
 
-<h2> Link do Episódio </h2>
+<h2> Link do episódio </h2>
 
-[Áudio do Episódio](https://inglesdozeropodcast.com.br/numeros-para-ouvir-e-praticar/)
+[Áudio do episódio 006](https://inglesdozeropodcast.com.br/numeros-para-ouvir-e-praticar/)
